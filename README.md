@@ -1,3 +1,12 @@
+In this project;
+
+In order to visually display the call texts I received from the user via input on the screen;
+
+By transferring data from the child component called "SearchBar", which contains the function where I can receive the text when the form is submit, to the parent component named "App", I sent the text I received to "api.unsplash.com" as an HTTP Request and the data from there was waiting for JS with the Async:Await method. I got it as an array by providing Then I returned the objects in this array with the map method and transferred each of them to the child component named "ImageShow" with the prop method.
+
+
+------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
