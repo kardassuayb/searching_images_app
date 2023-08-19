@@ -1,3 +1,5 @@
+A simple react.JS example of how we can use concepts like eventHandler, useState hook, HTTP Request, Async:Await function, child to parent dialog. Sorry for the simple style but that's not the point
+
 In this project;
 
 In order to visually display the call texts I received from the user via input on the screen;
